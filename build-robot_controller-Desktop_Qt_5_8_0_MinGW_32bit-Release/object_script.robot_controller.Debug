@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\serial.o
+./debug\infowindow.o
+./debug\slider.o
+./debug\myspinbox.o
+./debug\myslider.o
+./debug\qrc_resource.o
+./debug\moc_serial.o
+./debug\moc_infowindow.o
+./debug\moc_slider.o
+./debug\moc_myspinbox.o
+./debug\moc_myslider.o
+);

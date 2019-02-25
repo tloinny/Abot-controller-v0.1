@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\serial.o
+./release\infowindow.o
+./release\slider.o
+./release\myspinbox.o
+./release\myslider.o
+./release\qrc_resource.o
+./release\moc_serial.o
+./release\moc_infowindow.o
+./release\moc_slider.o
+./release\moc_myspinbox.o
+./release\moc_myslider.o
+);
